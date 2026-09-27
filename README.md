@@ -1,4 +1,4 @@
-# Axiom IDE
+# Axiom AI
 
 ### Local AI development environment with multi-model orchestration
 
