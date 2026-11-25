@@ -10,16 +10,16 @@
 <p><img src="docs/screenshots/voice-assistant.png" width="450" alt="Axioma Voice Assistant"></p>
 
 <p><strong>⚙️ AI Assistant Settings</strong></p>
-<p><img src="docs/screenshots/assistant-settings.png" width="900" alt="AxiomIDE AI Assistant Settings"></p>
+<p><img src="docs/screenshots/assistant-settings.png" width="900" alt="AI Assistant Settings"></p>
 
 <p><strong>🔌 AI Providers &amp; Connections</strong></p>
-<p><img src="docs/screenshots/providers-connections.png" width="900" alt="AxiomIDE Providers and Connections"></p>
+<p><img src="docs/screenshots/providers-connections.png" width="900" alt="AI Providers and Connections"></p>
 
 <p><strong>🧠 AI Model Management</strong></p>
-<p><img src="docs/screenshots/model-management.png" width="900" alt="AxiomIDE AI Model Management"></p>
+<p><img src="docs/screenshots/model-management.png" width="900" alt="AI Model Management"></p>
 
 <p><strong>🤖 Multi-Agent AI Orchestration</strong></p>
-<p><img src="docs/screenshots/ai-orchestration.png" width="900" alt="AxiomIDE Multi-Agent AI Orchestration"></p>
+<p><img src="docs/screenshots/ai-orchestration.png" width="900" alt="Multi-Agent AI Orchestration"></p>
 
 </details>
 
