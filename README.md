@@ -1,31 +1,25 @@
 <details>
-<summary><strong>📸 VIEW SCREENSHOTS (8) — CLICK TO OPEN</strong></summary>
+<summary><strong>📸 VIEW SCREENSHOTS (6) — CLICK TO OPEN</strong></summary>
 
-<h3>💻 Axiom AI — Application Screenshots</h3>
+<h3>💻 AxiomIDE — Application Screenshots</h3>
 
-<p><strong>Screenshot 1</strong></p>
-<p><img src="docs/screenshots/screenshot-1.png" width="900" alt="Axiom AI Screenshot 1"></p>
+<p><strong>🏠 Main Workspace</strong></p>
+<p><img src="docs/screenshots/workspace.png" width="900" alt="AxiomIDE Main Workspace"></p>
 
-<p><strong>Screenshot 2</strong></p>
-<p><img src="docs/screenshots/screenshot-2.png" width="900" alt="Axiom AI Screenshot 2"></p>
+<p><strong>🎙️ Axioma Voice Assistant</strong></p>
+<p><img src="docs/screenshots/voice-assistant.png" width="450" alt="Axioma Voice Assistant"></p>
 
-<p><strong>Screenshot 3</strong></p>
-<p><img src="docs/screenshots/screenshot-3.png" width="900" alt="Axiom AI Screenshot 3"></p>
+<p><strong>⚙️ AI Assistant Settings</strong></p>
+<p><img src="docs/screenshots/assistant-settings.png" width="900" alt="AxiomIDE AI Assistant Settings"></p>
 
-<p><strong>Screenshot 4</strong></p>
-<p><img src="docs/screenshots/screenshot-4.png" width="900" alt="Axiom AI Screenshot 4"></p>
+<p><strong>🔌 AI Providers &amp; Connections</strong></p>
+<p><img src="docs/screenshots/providers-connections.png" width="900" alt="AxiomIDE Providers and Connections"></p>
 
-<p><strong>Screenshot 5</strong></p>
-<p><img src="docs/screenshots/screenshot-5.png" width="900" alt="Axiom AI Screenshot 5"></p>
+<p><strong>🧠 AI Model Management</strong></p>
+<p><img src="docs/screenshots/model-management.png" width="900" alt="AxiomIDE AI Model Management"></p>
 
-<p><strong>Screenshot 6</strong></p>
-<p><img src="docs/screenshots/screenshot-6.png" width="900" alt="Axiom AI Screenshot 6"></p>
-
-<p><strong>Screenshot 7</strong></p>
-<p><img src="docs/screenshots/screenshot-7.png" width="900" alt="Axiom AI Screenshot 7"></p>
-
-<p><strong>Screenshot 8</strong></p>
-<p><img src="docs/screenshots/screenshot-8.png" width="900" alt="Axiom AI Screenshot 8"></p>
+<p><strong>🤖 Multi-Agent AI Orchestration</strong></p>
+<p><img src="docs/screenshots/ai-orchestration.png" width="900" alt="AxiomIDE Multi-Agent AI Orchestration"></p>
 
 </details>
 
